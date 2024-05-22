@@ -1,0 +1,6 @@
+django
+paddlepaddle
+paddleocr
+pillow
+openpyxl
+djangorestframework

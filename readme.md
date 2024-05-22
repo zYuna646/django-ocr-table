@@ -94,7 +94,7 @@ curl -X POST http://127.0.0.1:8000/ocr/process/ -F "image=@/path/to/your/image.j
     print("Excel file received and saved as output.xlsx")
 ```
 
-myproject/
+<!-- myproject/
 ├── manage.py
 ├── ocr_table/
 │   ├── __init__.py
@@ -111,7 +111,7 @@ myproject/
 │   ├── utils.py
 │   ├── views.py
 │   ├── migrations/
-│   │   ├── __init__.py
+│   │   ├── __init__.py -->
 
 
 ### Penjelasan

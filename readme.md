@@ -23,8 +23,8 @@ This Django project provides an API endpoint that accepts an image, processes it
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/django-ocr-api.git
-    cd django-ocr-api
+    git clone https://github.com/zYuna646/django-ocr-table.git
+    cd django-ocr-table
     ```
 
 2. Create and activate a virtual environment:
@@ -122,5 +122,3 @@ curl -X POST http://127.0.0.1:8000/ocr/process/ -F "image=@/path/to/your/image.j
 - **Project Structure**: Menyediakan struktur direktori dari proyek untuk memberikan pemahaman tentang organisasi kode.
 - **Contributing**: Panduan tentang bagaimana berkontribusi ke proyek.
 - **License**: Informasi tentang lisensi proyek.
-
-Jangan lupa untuk mengganti `https://github.com/yourusername/django-ocr-api.git` dengan URL repositori GitHub Anda yang sebenarnya. Simpan file ini sebagai `README.md` di root direktori proyek Anda.

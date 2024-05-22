@@ -114,11 +114,11 @@ curl -X POST http://127.0.0.1:8000/ocr/process/ -F "image=@/path/to/your/image.j
 │   │   ├── __init__.py -->
 
 
-### Penjelasan
+<!-- ### Penjelasan
 - **Features**: Menjelaskan fitur utama dari proyek.
 - **Requirements**: Menyediakan daftar pustaka yang diperlukan.
 - **Installation**: Langkah-langkah untuk mengkloning repositori, membuat dan mengaktifkan virtual environment, menginstal dependensi, menjalankan migrasi, dan memulai server pengembangan.
 - **Usage**: Instruksi tentang bagaimana menggunakan API, termasuk contoh penggunaan dengan Postman, cURL, dan Python.
 - **Project Structure**: Menyediakan struktur direktori dari proyek untuk memberikan pemahaman tentang organisasi kode.
 - **Contributing**: Panduan tentang bagaimana berkontribusi ke proyek.
-- **License**: Informasi tentang lisensi proyek.
+- **License**: Informasi tentang lisensi proyek. -->

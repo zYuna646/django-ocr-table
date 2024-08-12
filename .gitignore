@@ -1,0 +1,24 @@
+# Ignore compiled Python files
+*.pyc
+__pycache__
+
+# Ignore environment settings
+.env
+
+# Ignore SQLite database file
+*.sqlite3
+
+# Ignore staticfiles directory
+/staticfiles/
+
+# Ignore media files
+/media/
+
+# Ignore logs
+/logs/
+
+# Ignore virtual environment
+venv/
+
+# Ignore OCR folder
+/ocr/

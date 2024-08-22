@@ -30,7 +30,8 @@ ALLOWED_HOSTS = [
     '.ngrok-free.app',  # For ngrok-free.app domains
     'localhost',
     '127.0.0.1',
-    '81.16.28.234'
+    '81.16.28.234',
+    'ocr.api.noctdev.tech'
     # Add any other domains you want to allow
 ]
 
